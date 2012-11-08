@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross cmake
 
 NAME="mingw64-i686-win-iconv"
-VERSION=0.0.5
+VERSION=0.0.6
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Iconv implemenation for Win32 toolchain"
